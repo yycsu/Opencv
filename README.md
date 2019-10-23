@@ -1,6 +1,6 @@
 # Opencv学习笔记
 
-> 学习笔记主要分为两大部分，第一部分是Opencv进行图像处理的基础知识，包括API的使用以及数字图像处理知识点的总结。第二部分是使用CUDA进行数字图像处理，这里主要包括CUDA编程基础以及Opencv中的CUDA的使用。
+> 学习笔记主要分为两大部分，第一部分是Opencv进行图像处理的基础知识，包括API的使用以及数字图像处理知识点的总结。第二部分是使用CUDA进行数字图像处理，这里主要包括CUDA编程基础以及Opencv中的CUDA的使用。s
 >
 > **声明：**
 >
@@ -11,6 +11,10 @@
 <div align=center>
     <img width="300" src="img/img.jpg">
 <div>
+
+ 
+
+
 
 # [Opencv C++ ]()
 
