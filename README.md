@@ -10,11 +10,8 @@
 
 <div align=center>
     <img width="300" src="img/img.jpg">
-<div>
 
  
-
-
 
 # [Opencv C++ ]()
 
