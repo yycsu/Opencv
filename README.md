@@ -6,10 +6,11 @@
 >
 > Opencv部分是从知识星球“OpenCV研习社“，所做的学习笔记，在知识星球中该课程还有音频对每一个知识点进行讲解，是非常好的入门Opencv的资料，推荐二维码如下：
 >
-> <div align=center>
->     <img width="300" src="img/img.jpg">
->
 > CUDA编程是从Github项目中学习做的笔记，项目地址为：https://github.com/Ewenwan/ShiYanLou/tree/master/CUDA
+
+<div align=center>
+    <img width="300" src="img/img.jpg">
+<div>
 
 # [Opencv C++ ]()
 
