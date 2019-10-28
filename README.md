@@ -13,7 +13,7 @@
 
 # [Opencv C++ ]()
 
-#### [图像基础操作]([https://github.com/RuyiLuo/Opencv/blob/master/C%2B%2B/%E5%9B%BE%E5%83%8F%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9C.md](https://github.com/RuyiLuo/Opencv/blob/master/C%2B%2B/图像基础操作.md))
+#### [图像基础操作](https://github.com/RuyiLuo/Opencv/blob/master/C%2B%2B/图像基础操作.md)
 
 - 图像的读取保存
 - 赋值、复制克隆
@@ -24,12 +24,18 @@
 - 通道分离与合并
 - 图像色彩空间的转换
 - 图像像素值统计
+- 图像归一化
+- 视频文件的读写
 
 #### [图像滤波](https://github.com/RuyiLuo/Opencv/blob/master/C%2B%2B/图像滤波.md)
 
 - 图像卷积操作
 - 图像噪声
 - 图像去燥（常见的去燥方法）
+
+#### [图像编辑](https://github.com/RuyiLuo/Opencv/blob/master/C%2B%2B/图像编辑.md)
+
+- 图像翻转
 
 ## [CUDA](https://github.com/RuyiLuo/Opencv/blob/master/CUDA/CUDA.md)
 
