@@ -36,9 +36,12 @@
 #### [图像编辑](https://github.com/RuyiLuo/Opencv/blob/master/C%2B%2B/图像编辑.md)
 
 - 图像翻转
+- 图像插值
+- 绘制形状(矩形，圆，椭圆)
 
 ## [CUDA](https://github.com/RuyiLuo/Opencv/blob/master/CUDA/CUDA.md)
 
 - CUDA快速入门
 - 查看GPU的配置情况
 - CPU与GPU的数据交换
+
